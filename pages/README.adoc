@@ -21,4 +21,3 @@ Lab Exercises Table of Contents
 * Lab 12. link:12_Code_Promotion_Across_Environments.adoc[Code Promotion Across Environments]
 * Lab 13. link:13_Changing_code_on_the_fly.adoc[Changing code on the fly]
 * Lab 14. link:14_Creating_a_Pipeline.adoc[Creating a CI/CD Pipeline]
-* Lab 15. link:15-dotnet-and-mysql-using-template.adoc[Dot Net and PostgreSql using a Template]
