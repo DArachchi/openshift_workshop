@@ -166,6 +166,6 @@ $ oc delete project development-UserName
 $ oc delete project testing-UserName
 ....
 
-link:13_Changing_code_on_the_fly.adoc[Next Lab]
+link:13_Creating_a_Pipeline.adoc[Next Lab]
 
 link:README.adoc[Table Of Contents]
