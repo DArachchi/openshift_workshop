@@ -274,6 +274,6 @@ Let's clean up the project prior to continuing.
 
 $ oc delete project bluegreen-UserName
 
-link:10_SCM_Web_Hooks.adoc[Next Lab]
+link:9_SCM_Web_Hooks.adoc[Next Lab]
 
 link:README.adoc[Table Of Contents]
