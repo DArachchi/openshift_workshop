@@ -74,6 +74,6 @@ Let's clean up the project prior to continuing.
 
 $ oc delete project scm-web-hooks-UserName
 
-link:12_Code_Promotion_Across_Environments.adoc[Next Lab]
+link:11_Code_Promotion_Across_Environments.adoc[Next Lab]
 
 link:README.adoc[Table Of Contents]
